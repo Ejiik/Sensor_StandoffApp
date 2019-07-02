@@ -1,0 +1,40 @@
+<resources>    
+    <string name="app_name">StandOff</string>
+    <string name="btnPlay">Play</string>
+    <string name="btnHighScore">Highscore</string>
+    <string name="btnHelp">Help</string>
+    <string name="btnMulti">Multiplayer</string>
+    <string name="btnResult">Result</string>
+    <string name="tvStartTime">Start time: </string>
+    <string name="tvAccurate">Accurate: </string>
+    <string name="tvEndTime">End time: </string>
+    <string name="tvReaction">Reaction: </string>
+    <string name="tvTotalTime">Total time: </string>
+    <string name="btnMenu">Back to menu</string>
+    <string name="tvInstructions">Place your phone beside your leg with screen facing inwards. Then wait for the vibration and draw.</string>
+    <string name="btnSaveScore">Save score</string>
+    <string name="etName">Enter name</string>
+    <string name="tvWin">You win!</string>
+    <string name="tvLose">You lose!</string>
+    <string name="tvDraw">Its a draw</string>
+    <string name="tvHelpInstructions">
+        Singleplayer:\n
+        1. Select \"Play\" in the main menu\n
+        2. Hold your device against your thigh, screen facing inwards\n
+        3. When your device vibrates point it forwards, fast and straight, as if you\'re drawing a pistol\n
+        4. A scorescreen will appear, displaying your score based on how fast and accurate your draw was.\n
+        5. Choose whether to save your score (enter a name and press \"save score\") or to return to main menu.\n
+        \n
+        Multiplayer:\n
+        1. Select\"Duel\" in the main menu\n
+        2. If the app asks for permission to use bluetooth, press \"Allow\"\n
+        3.  Press \"scan\" to discover nearby devices, tap the name/id of your opponents device, press \"connect\" and the game round will then automatically start
+        \n
+        Highscore and score-history:\n
+        1. Select\"Highscore\" in the main menu\n
+        2. Your highscore will be displayed at the top of your screen and a list of all your scores beneath it\n
+        \n
+        Press Back on your device at any time in order to return to the main menu.
+    </string>
+    <string name="tvTitle">StandOff!</string>
+</resources>
